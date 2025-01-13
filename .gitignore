@@ -1,3 +1,7 @@
 *\.xlsx
 data_exploration.ipynb
 preprocessing.ipynb
+explore.ipynb
+model.ipynb
+preprocessing.ipynb
+*.csv
