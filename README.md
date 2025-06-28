@@ -1,5 +1,5 @@
 # Machine Learning Practice Project
-## IIT Madras Online BS Degree in Data Science and Applications (Diploma Level)
+<!-- ## IIT Madras Online BS Degree in Data Science and Applications (Diploma Level) -->
 ## January 2024
 ### Recipe Rating Prediction 
 This repo is my submission for the Machine Learning Practice (MLP) Project. The task was to predict the rating of the food recipes (from 0-5) tried by the customers of an online recipe app based on their text review.
